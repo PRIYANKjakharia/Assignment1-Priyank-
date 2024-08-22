@@ -1,0 +1,27 @@
+.card{
+    
+    width: 500px;
+    background-color: rgba(8, 240, 143, 0.879);
+    border-radius: 10px;
+    padding:  100px 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 120px auto ;
+}
+.heading{
+    font-size: 50px;
+}
+.ft{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: Left;
+}
+.btn{
+    padding: 4%;
+    background-color: white;
+    border: none;
+    border-radius: 32px ;
+    font-size: 20px;
+
+}
+.para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

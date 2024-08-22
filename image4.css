@@ -1,0 +1,48 @@
+.box{
+    width: 260px;
+    margin: 33px auto;
+    /* border: 1px solid black; */
+}
+.img{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 22px auto ;
+    padding: 20px;
+    
+}
+.center{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inp{
+    border: 1px solid rgb(169, 169, 169);
+    margin: 5px auto;
+    padding: 14px;
+    width: 100%;
+    border-radius: 12px;
+}
+.btn{
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    width: 90%;
+    border-radius : 25px;
+    padding : 12px 50px;
+    margin: 24px 24px;
+    margin-bottom: 40px;
+}
+.gray{
+    color: gray;
+    font-size: 13px;
+    text-align: center;
+}
+.dark{
+    color: rgb(62, 60, 60);
+}
+.footer{
+    margin-top: 50px;
+    color: gray;
+    font-size: 13px;
+    text-align: center;
+}
